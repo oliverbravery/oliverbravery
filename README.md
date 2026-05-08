@@ -4,7 +4,7 @@
 ![Public Repos](https://img.shields.io/badge/Public%20Repos-18-blue)
 ![GitHub Account stars](https://img.shields.io/github/stars/oliverbravery)
 
-> Backend Software Engineer @ OneClickComply | Building Accessible AI Solutions with Edge Computing | Newcastle University CS Graduate
+> Backend Software Engineer | Building Accessible AI Solutions with Edge Computing | Newcastle University CS Graduate
 
 - 📍 England - NE
 - ✉️ Email: [dev@oliverbravery.uk](mailto:dev@oliverbravery.uk)
