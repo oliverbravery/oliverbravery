@@ -16,7 +16,6 @@
 - Build accessible AI solutions with an emphasis on edge computing
 - Design and implement reliable, performant backend systems
 - Computer Science graduate from [Newcastle University](https://www.ncl.ac.uk)
-- Currently employed as a Software Engineer @ [OneClickComply](https://oneclickcomply.com)
 
 ## 🛠️ Tech Focus
 - Backend Engineering
@@ -64,4 +63,4 @@ Open Auth provides authentication and authorization for other services. It is bu
 
 ---
 
-Last updated: 19-10-2025
+Last updated: 30-05-2026
